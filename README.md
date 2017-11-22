@@ -3,7 +3,7 @@
 Realizar una replica de "Freelancer" (Al final de la informacion, se muestra la imagen a replicar).
 
 ***
-***
+
 
 # Flujo de trabajo
 Antes de iniciar el tranajo, se debe realizar un "Fork" (cuando se crea un nuevo repositorio en tu cuenta de Github, con una URL diferente). Los pasos para realizar el procedimiento:
@@ -22,7 +22,7 @@ Antes de iniciar el tranajo, se debe realizar un "Fork" (cuando se crea un nuevo
        https://github.com/Laboratoria-learning/lyft
 
   ***
-  ***
+
 # Desarrollo (consideraciones)
 
   Para la replica de la pagina se tomaron en cuenta los siguientes puntos.
@@ -34,8 +34,7 @@ Antes de iniciar el tranajo, se debe realizar un "Fork" (cuando se crea un nuevo
 
         - Dentro de la carpeta `assets` se encuentra la carpeta `images` donde encontrarás todas las imágenes necesarias para completar tu proyecto.
 
-        ***
-        ***
+
 
   Para el Diseño se utilizarón los siguientes puntos:
 
@@ -62,12 +61,12 @@ Para el Footer(Barra Institucional o Pie de pagina), se considero la siguiente i
 
 
   ***
-  ***
-  
+
+
 * Puedes ver el [sitio original](https://www.lyft.com/), para tomar algunas referencias en cuestion del diseño.
 
->Nota: Se enfoco en la maquetacion de la imagen mostrada a continuacion:
-***
+    >Nota: Se enfoco en la maquetacion de la imagen mostrada a continuacion:
+
 ***
 
 ![Lyft Website](docs/fullpage.png)
