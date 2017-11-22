@@ -55,9 +55,10 @@ Para el Footer(Barra Institucional o Pie de pagina), se considero la siguiente i
 
 
 * Dentro del diseño se agregaron (con la etiqueta `iframe`) 3 videos de Youtube:
-      * https://www.youtube.com/watch?v=fLSmUWOYpKw
-      * https://www.youtube.com/watch?v=V7j8Aqxmbs8
-      * https://www.youtube.com/watch?v=xj2VWLV0xCU
+
+    1. https://www.youtube.com/watch?v=fLSmUWOYpKw
+    2. https://www.youtube.com/watch?v=V7j8Aqxmbs8
+    3. https://www.youtube.com/watch?v=xj2VWLV0xCU
 
 
   ***
